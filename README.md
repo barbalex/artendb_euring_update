@@ -1,4 +1,3 @@
-# artendb_euring_update
 ergänzt die EURING in arteigenschaften.ch
 
 Anleitung:
