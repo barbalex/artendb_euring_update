@@ -1,0 +1,16 @@
+{
+  "name": "artendb_euring_update",
+  "version": "1.0.0",
+  "description": "adds euring numbers to birds in arteigenschaften.ch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "nano": "^6.0.2",
+    "underscore": "^1.7.0"
+  }
+}

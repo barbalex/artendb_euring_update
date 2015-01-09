@@ -1,0 +1,1596 @@
+{
+  "rows" : [
+    {
+      "EURING" : 370,
+      "GUID" : "00B88288-4E42-45ED-A880-265E7C55957E"
+    },
+    {
+      "EURING" : 3000,
+      "GUID" : "019D5F8C-353A-401B-BE54-9D03DFD73895"
+    },
+    {
+      "EURING" : 3570,
+      "GUID" : "0322372C-DBF1-4266-9173-EFEB3DF1524C"
+    },
+    {
+      "EURING" : 4700,
+      "GUID" : "046DFB3D-3959-4342-BE20-413DFE6254D6"
+    },
+    {
+      "EURING" : 980,
+      "GUID" : "04DF8D22-935B-448F-B3A9-751FEF87CEE8"
+    },
+    {
+      "EURING" : 3970,
+      "GUID" : "051C0F0A-6B24-47CE-A47D-E039A2578090"
+    },
+    {
+      "EURING" : 3960,
+      "GUID" : "068FAB81-D058-45E1-BEAF-74F66B9D2DFB"
+    },
+    {
+      "EURING" : 4460,
+      "GUID" : "06927591-9637-4CEE-A3C6-FB60E4DC5FAF"
+    },
+    {
+      "EURING" : 1610,
+      "GUID" : "06A18108-B3FB-4225-BBFD-79CAA1564341"
+    },
+    {
+      "EURING" : 500,
+      "GUID" : "06B8491B-F53F-4F7E-AD44-53168D895ACD"
+    },
+    {
+      "EURING" : 5280,
+      "GUID" : "06BF2A7E-4737-410F-8BEF-B03E4E29522F"
+    },
+    {
+      "EURING" : 4820,
+      "GUID" : "081B65F3-8C73-40B5-8633-7BC83D244EC3"
+    },
+    {
+      "EURING" : 5030,
+      "GUID" : "0902699B-428D-4DBB-8C0F-0690EB6F29A8"
+    },
+    {
+      "EURING" : 60,
+      "GUID" : "0971FD76-DDDA-4959-ACF9-D4128D6EC983"
+    },
+    {
+      "EURING" : 4470,
+      "GUID" : "0BADD8FA-24AB-40EF-8900-B7CDE4367E3E"
+    },
+    {
+      "EURING" : 2160,
+      "GUID" : "0C43660A-F261-4C01-A69C-6450606E63AB"
+    },
+    {
+      "EURING" : 4870,
+      "GUID" : "0C65BF3C-FAAA-4F43-B1C3-2B6B0560367A"
+    },
+    {
+      "EURING" : 2971,
+      "GUID" : "0C69075E-5E70-4F6A-8B7A-EBAF86F495D5"
+    },
+    {
+      "EURING" : 4090,
+      "GUID" : "0D0CD510-0CBF-4EFE-8A4F-C26A06D7BAF0"
+    },
+    {
+      "EURING" : 340,
+      "GUID" : "0D1B1962-019A-434B-8A17-459C36AFD66E"
+    },
+    {
+      "EURING" : 1270,
+      "GUID" : "0DF4E2A9-6881-4564-886C-EB8474F0A82F"
+    },
+    {
+      "EURING" : 5580,
+      "GUID" : "0FA6D377-ACDA-445B-9C72-38195F2DA6F0"
+    },
+    {
+      "EURING" : 290,
+      "GUID" : "11625271-CCB0-41D0-A2DB-EA1B7F7BAE0A"
+    },
+    {
+      "EURING" : 5360,
+      "GUID" : "127D78CE-949A-4581-95B7-FA3677552524"
+    },
+    {
+      "EURING" : 1800,
+      "GUID" : "137B95FF-5EFD-4C0D-B676-29FF5271E055"
+    },
+    {
+      "EURING" : 360,
+      "GUID" : "13B35A64-57A0-4A6C-A4E1-15E564802165"
+    },
+    {
+      "EURING" : 3480,
+      "GUID" : "13EE51D4-41F4-4659-BE3E-CCEFAF5F683B"
+    },
+    {
+      "EURING" : 5130,
+      "GUID" : "142473ED-A947-40D2-8790-02A5D66B7D10"
+    },
+    {
+      "EURING" : 4840,
+      "GUID" : "14E2DED6-2D91-4499-B377-BEA99ADF1432"
+    },
+    {
+      "EURING" : 801,
+      "GUID" : "1519CC61-761C-4FA8-942C-59C94CFAF52A"
+    },
+    {
+      "EURING" : 5180,
+      "GUID" : "1644430F-740D-432F-8202-12ABA74EE25F"
+    },
+    {
+      "EURING" : 80,
+      "GUID" : "16F39F01-8001-4536-BACB-56BDE56605A3"
+    },
+    {
+      "EURING" : 3720,
+      "GUID" : "17323FB7-D2CA-41A8-B3F6-542F00AAACE3"
+    },
+    {
+      "EURING" : 4190,
+      "GUID" : "176949E1-02C9-402B-863C-BE9F5F7EF986"
+    },
+    {
+      "EURING" : 1750,
+      "GUID" : "189959B9-4510-4881-B4B6-80FC13AEBD96"
+    },
+    {
+      "EURING" : 5290,
+      "GUID" : "18BECE4B-7571-40E9-B8CB-78B53298029C"
+    },
+    {
+      "EURING" : 1021,
+      "GUID" : "19D2550A-3CA8-4F89-87CE-02EB08717AFF"
+    },
+    {
+      "EURING" : 1350,
+      "GUID" : "1A0CDE6D-CAAA-48AC-9261-3F05608093D6"
+    },
+    {
+      "EURING" : 3910,
+      "GUID" : "1AB51BF3-AA65-40C4-B4E6-139B633DCE56"
+    },
+    {
+      "EURING" : 4020,
+      "GUID" : "1AFC9E80-CC6F-4B04-9FCD-8BCC3D11EEFF"
+    },
+    {
+      "EURING" : 2440,
+      "GUID" : "1B85032F-2D2A-4037-8C96-C0ACCE5A31C2"
+    },
+    {
+      "EURING" : 875,
+      "GUID" : "1B92DA47-DB39-4423-9EB3-A0771C602DE4"
+    },
+    {
+      "EURING" : 3870,
+      "GUID" : "1B9B4FBB-F987-442F-BC96-44445F75FF11"
+    },
+    {
+      "EURING" : 3280,
+      "GUID" : "1BEB90C1-AB64-4409-9A35-35AE8FFF366A"
+    },
+    {
+      "EURING" : 70,
+      "GUID" : "1CEF2947-D85C-4F56-B75F-98B0CCCF9725"
+    },
+    {
+      "EURING" : 5252,
+      "GUID" : "1D8D0837-0C76-4FDA-807F-964D93A39ECF"
+    },
+    {
+      "EURING" : 2560,
+      "GUID" : "1D9CF5B1-CC67-467A-922A-EC3AA2C0DD16"
+    },
+    {
+      "EURING" : 2750,
+      "GUID" : "1DA9C91A-A002-4370-B597-4A904418DC80"
+    },
+    {
+      "EURING" : 3120,
+      "GUID" : "1DC6C070-17BE-4CA7-81CC-6F259A831603"
+    },
+    {
+      "EURING" : 2200,
+      "GUID" : "1E0FC822-385A-4793-B1B8-72381AE9F148"
+    },
+    {
+      "EURING" : 5060,
+      "GUID" : "1EC81BF2-D1A1-4586-BE1E-9D732AB1B77C"
+    },
+    {
+      "EURING" : 4310,
+      "GUID" : "1FAF0407-D49F-484F-A428-37E48C1DF2AF"
+    },
+    {
+      "EURING" : 4580,
+      "GUID" : "209FD1CC-5FF2-46B3-A576-76E7D7CCAB4A"
+    },
+    {
+      "EURING" : 1620,
+      "GUID" : "2101EF1C-83F9-4785-9B27-357C335860DF"
+    },
+    {
+      "EURING" : 1340,
+      "GUID" : "218FE0F3-1CAC-4AEC-BC39-15D92D157566"
+    },
+    {
+      "EURING" : 2990,
+      "GUID" : "224455FC-F933-4FD4-9CFF-78231A72066E"
+    },
+    {
+      "EURING" : 2500,
+      "GUID" : "22CB7A19-5699-4074-AF1D-816DC39C9741"
+    },
+    {
+      "EURING" : 1050,
+      "GUID" : "24239399-4A56-4373-B250-5579EFAB3CB3"
+    },
+    {
+      "EURING" : 790,
+      "GUID" : "257E73B6-F393-402F-9480-622EC5EB5D92"
+    },
+    {
+      "EURING" : 4740,
+      "GUID" : "2618E518-4173-442C-9FCA-D3584E87043C"
+    },
+    {
+      "EURING" : 4750,
+      "GUID" : "26CB993C-E955-42FF-9532-98B6B6A48288"
+    },
+    {
+      "EURING" : 680,
+      "GUID" : "2798F1F3-5C2A-4236-A45B-BE1DD55CE19C"
+    },
+    {
+      "EURING" : 5740,
+      "GUID" : "28FF553F-10F1-475B-B1AB-FC2B862D6031"
+    },
+    {
+      "EURING" : 3030,
+      "GUID" : "294D43A0-E02F-4FE7-AD79-6509D1407884"
+    },
+    {
+      "EURING" : 1460,
+      "GUID" : "299FDF37-6FF0-4B6D-BBB7-A748DDDE48CD"
+    },
+    {
+      "EURING" : 4130,
+      "GUID" : "2A0D4CA9-4DF5-42FB-8AEC-38CD9409E001"
+    },
+    {
+      "EURING" : 1550,
+      "GUID" : "2A73F50A-F022-485C-8B6C-5FD097739B6F"
+    },
+    {
+      "EURING" : 3620,
+      "GUID" : "2B9DB8A2-4B89-47E7-A6C4-6AD3C854CB2D"
+    },
+    {
+      "EURING" : 5600,
+      "GUID" : "2D31232B-D4F6-42D8-A676-D6EA7FBF7A76"
+    },
+    {
+      "EURING" : 830,
+      "GUID" : "2DDF3A29-C8E3-41AE-8E94-D31D0C913CCF"
+    },
+    {
+      "EURING" : 5780,
+      "GUID" : "2F513F37-9503-4B95-A74B-44C2591446EC"
+    },
+    {
+      "EURING" : 400,
+      "GUID" : "2FBF8AC2-A947-465C-B8E6-D415F96ED9EA"
+    },
+    {
+      "EURING" : 3330,
+      "GUID" : "2FFB8870-6597-438A-9266-15A3DCF22728"
+    },
+    {
+      "EURING" : 2820,
+      "GUID" : "30765367-F0E1-40AC-A308-BC252259C7D0"
+    },
+    {
+      "EURING" : 2700,
+      "GUID" : "30C3BD82-D03D-4038-8F62-BD99B6EA4BFB"
+    },
+    {
+      "EURING" : 2640,
+      "GUID" : "336CCBD7-7181-4F68-A5E0-D55C9E3CEBE3"
+    },
+    {
+      "EURING" : 5450,
+      "GUID" : "33BFEC99-D68E-47F9-B4FE-C2D63512789C"
+    },
+    {
+      "EURING" : 2760,
+      "GUID" : "33C676CA-3FF6-4733-9B67-77721D7B7EA3"
+    },
+    {
+      "EURING" : 4300,
+      "GUID" : "34F32C0F-3D0E-44C6-A605-C0D9428E8C8A"
+    },
+    {
+      "EURING" : 5670,
+      "GUID" : "35AB73FC-ACB8-486F-9AEA-76708250FD14"
+    },
+    {
+      "EURING" : 1880,
+      "GUID" : "365D6E81-CA8F-4233-A838-25F03FC22632"
+    },
+    {
+      "EURING" : 3360,
+      "GUID" : "36717930-D83F-4456-ADA2-0C1BFAA48C14"
+    },
+    {
+      "EURING" : 2390,
+      "GUID" : "371F3F3F-EF90-4B24-BE0A-B1C4C1227E05"
+    },
+    {
+      "EURING" : 1380,
+      "GUID" : "3736D492-A961-486A-9551-FF6048B989EB"
+    },
+    {
+      "EURING" : 3230,
+      "GUID" : "3879869C-8B99-4E76-8157-72479D8CD223"
+    },
+    {
+      "EURING" : 2140,
+      "GUID" : "3A20BC11-B0A7-45BD-B7B8-D83A0CBAED93"
+    },
+    {
+      "EURING" : 5000,
+      "GUID" : "3B386772-75CE-446A-9D0A-BA4B5219E906"
+    },
+    {
+      "EURING" : 2010,
+      "GUID" : "3BF0BEBF-7ACD-442D-8FE8-CEA42B2E5C04"
+    },
+    {
+      "EURING" : 1670,
+      "GUID" : "3C743FBD-F506-47C5-8A0D-B41EA2F4715D"
+    },
+    {
+      "EURING" : 3140,
+      "GUID" : "3C9827B0-7C21-4A90-BDC5-B16DD0A02B42"
+    },
+    {
+      "EURING" : 1540,
+      "GUID" : "3CC145D1-98D2-4CD3-B080-4617E8EA86BA"
+    },
+    {
+      "EURING" : 430,
+      "GUID" : "3E14FCBD-56CD-4555-90B7-206EA54317DD"
+    },
+    {
+      "EURING" : 2040,
+      "GUID" : "3E6CCF6F-35A0-411E-B2B6-4660103D8CB8"
+    },
+    {
+      "EURING" : 4140,
+      "GUID" : "3FB43FCA-1DB9-4DDC-A8B8-B23E626F05F8"
+    },
+    {
+      "EURING" : 990,
+      "GUID" : "44499C0A-DF25-401F-914C-A75433A78B3A"
+    },
+    {
+      "EURING" : 550,
+      "GUID" : "4468B968-DA51-47B6-B30B-B456235E6B78"
+    },
+    {
+      "EURING" : 750,
+      "GUID" : "4804F2C2-0851-49D7-AB41-F586828CC000"
+    },
+    {
+      "EURING" : 4010,
+      "GUID" : "4861374C-EBF6-4749-80E3-1C4663832C8F"
+    },
+    {
+      "EURING" : 50,
+      "GUID" : "4A8A1AFB-4EDB-42FB-A700-D942E87F8B56"
+    },
+    {
+      "EURING" : 571,
+      "GUID" : "4A8D514F-6CB1-45BA-A5DB-BA8327A0BB25"
+    },
+    {
+      "EURING" : 1970,
+      "GUID" : "4AE52A15-63B2-4656-A6A6-757A63B8336F"
+    },
+    {
+      "EURING" : 1150,
+      "GUID" : "4B7D3940-0C71-45B2-A04A-AC88B5253EBF"
+    },
+    {
+      "EURING" : 3560,
+      "GUID" : "4BF2D617-DFA4-4A6B-A5C7-0960408AAD42"
+    },
+    {
+      "EURING" : 20,
+      "GUID" : "4C617229-494B-49AE-832A-77980567CC21"
+    },
+    {
+      "EURING" : 5140,
+      "GUID" : "4D7BE86C-C4B7-4C60-AEFA-C5FAAF91C456"
+    },
+    {
+      "EURING" : 2360,
+      "GUID" : "4DA3A0C1-1BEF-4A35-BE25-20940C9A7F14"
+    },
+    {
+      "EURING" : 701,
+      "GUID" : "4DBA442E-E8DF-44AE-88DA-7D572877899B"
+    },
+    {
+      "EURING" : 3450,
+      "GUID" : "4DBEC26A-F977-41C9-AF40-3436904877D6"
+    },
+    {
+      "EURING" : 450,
+      "GUID" : "4E4CBD6C-C6B2-4D0A-A4B3-489624388D3D"
+    },
+    {
+      "EURING" : 4760,
+      "GUID" : "4E553BDA-E114-40C2-A266-646C5DC9804F"
+    },
+    {
+      "EURING" : 2510,
+      "GUID" : "4EDE15FE-7E93-4EDF-BBA7-FC78DA0668CF"
+    },
+    {
+      "EURING" : 4730,
+      "GUID" : "4F771631-9A43-4F89-8288-C12E3B2D2E6A"
+    },
+    {
+      "EURING" : 2550,
+      "GUID" : "4FBCCE69-2EB1-4B71-82D7-3A7BE7906984"
+    },
+    {
+      "EURING" : 2130,
+      "GUID" : "506C5670-4D70-4E25-AD59-2DDD9F48102D"
+    },
+    {
+      "EURING" : 5570,
+      "GUID" : "50ED776F-379C-4394-AF17-862045657988"
+    },
+    {
+      "EURING" : 2250,
+      "GUID" : "50F9653E-212E-433E-BCD4-3367DE88D966"
+    },
+    {
+      "EURING" : 3670,
+      "GUID" : "5134EBB9-59BC-401C-ABFD-E84024616CD6"
+    },
+    {
+      "EURING" : 5690,
+      "GUID" : "51FD21F8-BBA1-4D4C-87B5-8174D6ADDDEC"
+    },
+    {
+      "EURING" : 4580,
+      "GUID" : "54C11841-2E76-4293-8288-1FB15BFCACD5"
+    },
+    {
+      "EURING" : 2280,
+      "GUID" : "54CD3930-0B4F-475B-ACA6-B03BF7C81E69"
+    },
+    {
+      "EURING" : 2561,
+      "GUID" : "55A3FE2F-C5DD-4AC8-AA4B-13BC38D12EB1"
+    },
+    {
+      "EURING" : 3440,
+      "GUID" : "55D42330-A059-45E0-945B-E8C67701FBDC"
+    },
+    {
+      "EURING" : 4960,
+      "GUID" : "56079532-1071-421D-974D-4DE100892CC7"
+    },
+    {
+      "EURING" : 2530,
+      "GUID" : "56A829E3-C064-4BAE-A03F-8EA12078F675"
+    },
+    {
+      "EURING" : 4990,
+      "GUID" : "56D640E5-9263-4C39-949B-992C9350C1DE"
+    },
+    {
+      "EURING" : 3700,
+      "GUID" : "56FE69FC-0B13-4F76-9038-32205805A072"
+    },
+    {
+      "EURING" : 2740,
+      "GUID" : "58327652-25AF-4C58-B403-4512DED992AE"
+    },
+    {
+      "EURING" : 1360,
+      "GUID" : "592D1982-06F6-47B0-8AD1-D0ADEDFD1B5D"
+    },
+    {
+      "EURING" : 1790,
+      "GUID" : "5A0CE00B-CFD7-41D2-B6E6-4683DB5FDC29"
+    },
+    {
+      "EURING" : 300,
+      "GUID" : "5A57EDEC-9E7E-4FFE-BC4D-C799AC457408"
+    },
+    {
+      "EURING" : 390,
+      "GUID" : "5AE0471D-3239-425A-B9CB-948E9BDBF340"
+    },
+    {
+      "EURING" : 1370,
+      "GUID" : "5B2764F4-53C3-463D-8A99-CED8632553A5"
+    },
+    {
+      "EURING" : 5380,
+      "GUID" : "5B35959D-3844-40B8-8CAF-E6100CAB479D"
+    },
+    {
+      "EURING" : 1070,
+      "GUID" : "5BE7B206-E634-4DD7-A21C-4492E6D533CB"
+    },
+    {
+      "EURING" : 1310,
+      "GUID" : "5CF04481-9D11-4E87-BBFE-1632ECBFF15B"
+    },
+    {
+      "EURING" : 4650,
+      "GUID" : "5F49DA0E-3788-4845-A9E4-A2C298EB3F04"
+    },
+    {
+      "EURING" : 4055,
+      "GUID" : "5FA1D90F-1FF6-47FA-A833-3EF520690D29"
+    },
+    {
+      "EURING" : 5720,
+      "GUID" : "60EF1D80-C1D9-4524-B989-F53B02DF5441"
+    },
+    {
+      "EURING" : 1840,
+      "GUID" : "6113A88D-D87D-4AA2-9460-6A3F4AFE10D0"
+    },
+    {
+      "EURING" : 2660,
+      "GUID" : "61F3FA7C-93E9-4BD3-815C-5E27361DC1AC"
+    },
+    {
+      "EURING" : 1100,
+      "GUID" : "628BB40A-4706-450C-B2FD-A14E897926D2"
+    },
+    {
+      "EURING" : 580,
+      "GUID" : "63A7C0EA-94E0-4AC9-B9E0-A9CF71F5CB73"
+    },
+    {
+      "EURING" : 1140,
+      "GUID" : "6436C475-B117-44BF-8D16-71089AE30B09"
+    },
+    {
+      "EURING" : 2300,
+      "GUID" : "64E726AB-1EAE-48CD-8896-9CBC42C60E6F"
+    },
+    {
+      "EURING" : 1730,
+      "GUID" : "64FE48AA-9CD7-40BA-8361-01C27E65242D"
+    },
+    {
+      "EURING" : 600,
+      "GUID" : "6808C916-8566-470D-B9BB-3A55125FFF51"
+    },
+    {
+      "EURING" : 4200,
+      "GUID" : "682BC4DC-DEBE-49CA-AB4F-B1DA2E70F56B"
+    },
+    {
+      "EURING" : 2270,
+      "GUID" : "69333D0B-F67A-4DE1-9756-F6405ADA76A0"
+    },
+    {
+      "EURING" : 895,
+      "GUID" : "693DF8AA-EF0D-430F-B35E-62556D47C5DB"
+    },
+    {
+      "EURING" : 1190,
+      "GUID" : "69834C26-52F5-463D-90C4-5DBD43A730F6"
+    },
+    {
+      "EURING" : 3260,
+      "GUID" : "698B850C-B9BC-47AC-8501-B2F53C875F00"
+    },
+    {
+      "EURING" : 440,
+      "GUID" : "6B7EC41B-08A2-4D6D-9724-D6BE895742DF"
+    },
+    {
+      "EURING" : 1560,
+      "GUID" : "6EFA52F9-8289-463C-8257-18CFA7110388"
+    },
+    {
+      "EURING" : 890,
+      "GUID" : "6F66AE73-3EEE-4B4E-AA94-752E69BA9528"
+    },
+    {
+      "EURING" : 4610,
+      "GUID" : "70166DE8-B14B-47A2-BC87-1EFF224B9A91"
+    },
+    {
+      "EURING" : 5250,
+      "GUID" : "7062B98D-BD33-4434-AC69-3D3F2D5A24BD"
+    },
+    {
+      "EURING" : 1080,
+      "GUID" : "70BBD62C-CFDD-4CCC-8696-1AF3D4A8A0CF"
+    },
+    {
+      "EURING" : 2080,
+      "GUID" : "70EA4658-8C6C-4EB4-9C3E-9792BB85238B"
+    },
+    {
+      "EURING" : 5590,
+      "GUID" : "731F9911-30FF-40AC-A5C8-CB012868AC44"
+    },
+    {
+      "EURING" : 2240,
+      "GUID" : "73FD38BB-8F89-43B8-B933-C040BC4FF4C6"
+    },
+    {
+      "EURING" : 3410,
+      "GUID" : "7480CEB9-23B9-4480-A335-FA623518BACC"
+    },
+    {
+      "EURING" : 4590,
+      "GUID" : "74FAC3C3-AB70-4435-A0E2-0E38482E8BBF"
+    },
+    {
+      "EURING" : 200,
+      "GUID" : "75CECAC2-2AB1-4539-8793-A124DD3BA91D"
+    },
+    {
+      "EURING" : 2210,
+      "GUID" : "760DB7DD-191E-418B-A916-4968BB50D69B"
+    },
+    {
+      "EURING" : 2580,
+      "GUID" : "76B70A6C-622B-4ABD-A4E1-E80B5F5E6C52"
+    },
+    {
+      "EURING" : 5100,
+      "GUID" : "77045CA6-7906-484E-B1CF-BA0CC2F8D0A0"
+    },
+    {
+      "EURING" : 2420,
+      "GUID" : "77072805-D63A-489A-9F5E-1F5B0EC16A1E"
+    },
+    {
+      "EURING" : 3020,
+      "GUID" : "77243DF3-C0C3-4B7F-9286-18FD28691601"
+    },
+    {
+      "EURING" : 3490,
+      "GUID" : "77AF254D-C252-4C70-AB15-9AEF52357DB3"
+    },
+    {
+      "EURING" : 5200,
+      "GUID" : "78019D6A-69A6-4CEA-A8B6-4D6B74E16574"
+    },
+    {
+      "EURING" : 5550,
+      "GUID" : "782B8B87-FAB7-4957-93AE-81FDA17D6C2D"
+    },
+    {
+      "EURING" : 320,
+      "GUID" : "7B0D3D32-3434-4C6B-957F-6A17EA71EC36"
+    },
+    {
+      "EURING" : 4970,
+      "GUID" : "7B76A254-FCFF-4DE5-B2D5-1B86252E6441"
+    },
+    {
+      "EURING" : 4670,
+      "GUID" : "7B7D5C42-E91B-4E94-ACEB-E77DFD37A257"
+    },
+    {
+      "EURING" : 4930,
+      "GUID" : "7C0E2AFF-9580-4A76-89F9-958160F9A8FC"
+    },
+    {
+      "EURING" : 1770,
+      "GUID" : "7D0DC810-4900-4254-9B60-6ED7590C4D85"
+    },
+    {
+      "EURING" : 4950,
+      "GUID" : "7DACE6F3-3E34-4B1E-A496-1EC554DEC218"
+    },
+    {
+      "EURING" : 5460,
+      "GUID" : "7EBFDC50-4FBB-4CFE-B218-680DEBC1DF2F"
+    },
+    {
+      "EURING" : 4480,
+      "GUID" : "7ECB527A-1507-4086-8ADD-B690C3C25193"
+    },
+    {
+      "EURING" : 2320,
+      "GUID" : "808436F3-2CE8-4AD7-A88A-F668A8B1ABFF"
+    },
+    {
+      "EURING" : 5251,
+      "GUID" : "810EA775-FDD0-4215-872B-3F179FD89878"
+    },
+    {
+      "EURING" : 1910,
+      "GUID" : "8173E5B3-4140-484B-BD95-B714DBF713AC"
+    },
+    {
+      "EURING" : 810,
+      "GUID" : "818FB28C-F0FC-43B7-ACE7-57F15E0F116B"
+    },
+    {
+      "EURING" : 1710,
+      "GUID" : "81DBDFA6-663A-4B96-BEEB-515633BAE214"
+    },
+    {
+      "EURING" : 3500,
+      "GUID" : "820D27A1-4E82-484A-8454-CF0C0C5B378B"
+    },
+    {
+      "EURING" : 4940,
+      "GUID" : "83673115-BAE6-4CDC-844D-ECBAF9335BED"
+    },
+    {
+      "EURING" : 900,
+      "GUID" : "83A73A5A-FC4D-49A1-93DD-99AEF1A1BCCE"
+    },
+    {
+      "EURING" : 4520,
+      "GUID" : "849508EC-46A6-45CF-B3B0-97217D4A251C"
+    },
+    {
+      "EURING" : 480,
+      "GUID" : "858F19DD-4BFC-4DE4-81DD-354A82DF7FC1"
+    },
+    {
+      "EURING" : 2110,
+      "GUID" : "859443CF-AF94-4D9A-B010-75D55C82C673"
+    },
+    {
+      "EURING" : 3390,
+      "GUID" : "86A409D9-5849-4489-A542-E425E28AA305"
+    },
+    {
+      "EURING" : 3790,
+      "GUID" : "884C2096-9888-4A8F-9450-689037A65E5D"
+    },
+    {
+      "EURING" : 3740,
+      "GUID" : "8956A8B1-984B-447E-8CED-5BA27803F893"
+    },
+    {
+      "EURING" : 3750,
+      "GUID" : "898840B8-7ACF-4D3F-A14E-A46CF09DE106"
+    },
+    {
+      "EURING" : 2340,
+      "GUID" : "89DA3FA4-A6FE-4760-891C-111E3A134436"
+    },
+    {
+      "EURING" : 325,
+      "GUID" : "8A058A70-B5EF-439F-99E2-1C9F22128F1B"
+    },
+    {
+      "EURING" : 860,
+      "GUID" : "8BDB2637-370A-4A77-A467-5E1CAC3B96AB"
+    },
+    {
+      "EURING" : 570,
+      "GUID" : "8CD92181-D537-4B34-8439-465C789B5516"
+    },
+    {
+      "EURING" : 4440,
+      "GUID" : "8CF9FA40-823E-4DCD-A219-B7D08285FE16"
+    },
+    {
+      "EURING" : 2000,
+      "GUID" : "8D646000-1AB9-4506-A048-9B8574878872"
+    },
+    {
+      "EURING" : 850,
+      "GUID" : "8D8E1D74-A870-418F-AA9E-61B916889993"
+    },
+    {
+      "EURING" : 4620,
+      "GUID" : "8D9353D4-3050-4E0B-8EAB-1013C1B0494D"
+    },
+    {
+      "EURING" : 4450,
+      "GUID" : "8DD1C02E-B087-4934-B14C-C9F0ADB512ED"
+    },
+    {
+      "EURING" : 3880,
+      "GUID" : "8ED1A0F6-946B-4C45-8C33-FCA8B1F1DD76"
+    },
+    {
+      "EURING" : 4290,
+      "GUID" : "8F3B8CE7-A389-431C-BF61-CBBFB24F0CA6"
+    },
+    {
+      "EURING" : 5400,
+      "GUID" : "8FCCCE86-CFDD-4515-8F30-11E54420701C"
+    },
+    {
+      "EURING" : 3770,
+      "GUID" : "90EFA888-CAF7-4584-9161-C288107AB43B"
+    },
+    {
+      "EURING" : 4040,
+      "GUID" : "90F68206-9858-4510-A301-61D6E3B4223C"
+    },
+    {
+      "EURING" : 3040,
+      "GUID" : "91E0EEEB-6A3A-45C4-8931-82B257066A82"
+    },
+    {
+      "EURING" : 1640,
+      "GUID" : "933C2075-F1A7-4204-B3BB-A4D294C55DA2"
+    },
+    {
+      "EURING" : 2090,
+      "GUID" : "9443F94F-BA04-4A22-8B0C-35DD497BC105"
+    },
+    {
+      "EURING" : 5520,
+      "GUID" : "945FC8BA-C2FA-456C-AA21-270CB305AF94"
+    },
+    {
+      "EURING" : 1330,
+      "GUID" : "95697668-5CD7-494F-8AC2-4D82AF764E07"
+    },
+    {
+      "EURING" : 5510,
+      "GUID" : "958CD2F8-F671-45C3-8AE0-959AC3651462"
+    },
+    {
+      "EURING" : 2800,
+      "GUID" : "959E6D22-B65A-40B3-A6F8-52F449B87F0C"
+    },
+    {
+      "EURING" : 10,
+      "GUID" : "95E4CEBF-7530-46DE-9A1D-5D066309D49B"
+    },
+    {
+      "EURING" : 5370,
+      "GUID" : "96082648-0B8D-4C75-AD4E-EC3D33C1C9F7"
+    },
+    {
+      "EURING" : 4570,
+      "GUID" : "96F551C3-7439-45E9-921C-3EB6DFAD9D5D"
+    },
+    {
+      "EURING" : 950,
+      "GUID" : "974D4015-7372-43EE-9E25-5C7700981378"
+    },
+    {
+      "EURING" : 420,
+      "GUID" : "981838C3-47C5-4058-A9C5-AF831B6F36F8"
+    },
+    {
+      "EURING" : 2350,
+      "GUID" : "9820F1F3-AF99-4100-A049-6946ECF34BC9"
+    },
+    {
+      "EURING" : 2030,
+      "GUID" : "99C91D2A-77B5-423B-8424-B913A2E43C46"
+    },
+    {
+      "EURING" : 1130,
+      "GUID" : "9C393B74-0D34-4DAE-AB14-115E29493A55"
+    },
+    {
+      "EURING" : 3510,
+      "GUID" : "9C3F1680-A6AC-4608-9363-A54B4D44E96C"
+    },
+    {
+      "EURING" : 3681,
+      "GUID" : "9C84D038-5BC4-4327-8389-FE6423E14600"
+    },
+    {
+      "EURING" : 4780,
+      "GUID" : "9CF974D0-9BFC-49C8-B69B-AA1106A45482"
+    },
+    {
+      "EURING" : 1930,
+      "GUID" : "9D42984D-6E54-4214-8BF4-F487779F0424"
+    },
+    {
+      "EURING" : 560,
+      "GUID" : "9DAB5756-AB69-49AD-95DF-B252C70CD87E"
+    },
+    {
+      "EURING" : 3820,
+      "GUID" : "9DC202B2-26C0-4B4D-860A-83EE7FCAC410"
+    },
+    {
+      "EURING" : 4600,
+      "GUID" : "9DE028A1-4724-4CD1-AC7E-E4AA83945BE8"
+    },
+    {
+      "EURING" : 5300,
+      "GUID" : "9E3EA0EF-D7F4-41EC-A2A7-29D801D62F06"
+    },
+    {
+      "EURING" : 350,
+      "GUID" : "9EA7C25D-0C03-4879-A4BA-95B290213EBF"
+    },
+    {
+      "EURING" : 5560,
+      "GUID" : "9F2039F6-12B9-4F45-BD73-1269980A6B69"
+    },
+    {
+      "EURING" : 753,
+      "GUID" : "A0FB3A2C-6227-469E-B128-0249F70CA9A8"
+    },
+    {
+      "EURING" : 1570,
+      "GUID" : "A1996797-1119-4426-AAD1-B88D408955A6"
+    },
+    {
+      "EURING" : 1090,
+      "GUID" : "A27572EA-F5C6-4F34-90F4-1AC2564FB1F8"
+    },
+    {
+      "EURING" : 4100,
+      "GUID" : "A2B04CAE-D329-4D90-B33C-445A964761FA"
+    },
+    {
+      "EURING" : 3180,
+      "GUID" : "A306A291-042A-4D9D-B098-F01D8AC0A47C"
+    },
+    {
+      "EURING" : 740,
+      "GUID" : "A30ABF20-1E21-41ED-8D0A-8FA188EC8199"
+    },
+    {
+      "EURING" : 610,
+      "GUID" : "A31EE53D-6B12-4F44-A23E-69BF675A4371"
+    },
+    {
+      "EURING" : 2570,
+      "GUID" : "A42CD67A-B599-4B8E-8003-654B7FC18F77"
+    },
+    {
+      "EURING" : 870,
+      "GUID" : "A50D9933-B43A-414A-9868-FDF38D8FA988"
+    },
+    {
+      "EURING" : 730,
+      "GUID" : "A57E770A-FA6C-482A-A418-4EAEBA16313C"
+    },
+    {
+      "EURING" : 1040,
+      "GUID" : "A80CE44A-A260-46FA-8E3E-8A833297C60A"
+    },
+    {
+      "EURING" : 1600,
+      "GUID" : "A86822AC-E810-4711-8B93-4C9BE824F887"
+    },
+    {
+      "EURING" : 2710,
+      "GUID" : "A956087B-CDAC-4744-A5CC-3FA69B036A57"
+    },
+    {
+      "EURING" : 5320,
+      "GUID" : "A987C1CD-BE7C-4801-B461-C8A8DF02836D"
+    },
+    {
+      "EURING" : 2470,
+      "GUID" : "AA320981-5361-4BCE-9CF0-D12FD3B5C856"
+    },
+    {
+      "EURING" : 3090,
+      "GUID" : "AAA8CAB7-F589-45BA-ADC2-F0D9A067D4C4"
+    },
+    {
+      "EURING" : 1300,
+      "GUID" : "AC0FB294-920E-4AC4-BAD6-7792004A9DE4"
+    },
+    {
+      "EURING" : 5710,
+      "GUID" : "AC57839B-40DC-4F77-AAD3-80D70182CE88"
+    },
+    {
+      "EURING" : 2180,
+      "GUID" : "AC8190E6-9070-4365-97B0-A7E848BC6925"
+    },
+    {
+      "EURING" : 2410,
+      "GUID" : "AC8A4893-2F50-4B25-B5D8-96052243718A"
+    },
+    {
+      "EURING" : 2520,
+      "GUID" : "ACB11FFD-9A76-453A-9D02-75F0736F2BA5"
+    },
+    {
+      "EURING" : 530,
+      "GUID" : "AD45C380-4781-40FC-BF01-4D46C5DFFBEF"
+    },
+    {
+      "EURING" : 510,
+      "GUID" : "ADA51A4C-7CC0-473F-A1C6-F69BF8087728"
+    },
+    {
+      "EURING" : 4660,
+      "GUID" : "AE47C4EF-D94E-4B87-A1E1-0A8BB70086B7"
+    },
+    {
+      "EURING" : 5160,
+      "GUID" : "AE6CB627-6951-48BD-897B-13C982874D18"
+    },
+    {
+      "EURING" : 5120,
+      "GUID" : "AFC21884-A4E8-47D1-8739-D878C0D57509"
+    },
+    {
+      "EURING" : 1500,
+      "GUID" : "B01EA744-C880-4F33-8FC6-83628E10A570"
+    },
+    {
+      "EURING" : 5330,
+      "GUID" : "B05195AD-7CE9-4213-81F7-32217501385C"
+    },
+    {
+      "EURING" : 2540,
+      "GUID" : "B1ABC10A-B508-4FD2-8D14-B00431D08F6D"
+    },
+    {
+      "EURING" : 4060,
+      "GUID" : "B1D97745-6F1A-4F16-A68E-344D771473EE"
+    },
+    {
+      "EURING" : 3550,
+      "GUID" : "B223971A-38ED-411D-BDB8-D07BC6577194"
+    },
+    {
+      "EURING" : 3170,
+      "GUID" : "B26D660F-31ED-4667-8F20-E6158A3D41A5"
+    },
+    {
+      "EURING" : 3200,
+      "GUID" : "B29C9275-A5B4-42EE-95EB-BAD6E9C96D1E"
+    },
+    {
+      "EURING" : 3610,
+      "GUID" : "B370C208-A17D-40A6-B664-5EEC2E2570B4"
+    },
+    {
+      "EURING" : 2380,
+      "GUID" : "B3E1B217-7610-41CC-9D23-4807792FC863"
+    },
+    {
+      "EURING" : 670,
+      "GUID" : "B4234B87-0F5F-4732-A2E2-FAEE0A87D623"
+    },
+    {
+      "EURING" : 2460,
+      "GUID" : "B48ED50F-B33D-451C-A065-BDF7E58B1862"
+    },
+    {
+      "EURING" : 3860,
+      "GUID" : "B5A58C2A-0560-493A-8CA8-1B97B34BDD88"
+    },
+    {
+      "EURING" : 2480,
+      "GUID" : "B5E28FB9-20E4-4C14-934E-2793D509D759"
+    },
+    {
+      "EURING" : 2720,
+      "GUID" : "B6FAC036-0CEC-4FDF-8953-2F140F448571"
+    },
+    {
+      "EURING" : 3070,
+      "GUID" : "B9482E51-3FB6-4406-A8BD-2C38DAD7A07E"
+    },
+    {
+      "EURING" : 2220,
+      "GUID" : "B9B689FC-E3CE-4455-BC27-E9430B7C10B0"
+    },
+    {
+      "EURING" : 690,
+      "GUID" : "BA9443EF-E196-4552-A9FB-36D5807011AA"
+    },
+    {
+      "EURING" : 1290,
+      "GUID" : "BB3F482E-7572-4B4B-86D7-3691F5DFFE54"
+    },
+    {
+      "EURING" : 4230,
+      "GUID" : "BB686C46-E28A-4CE8-AE51-9B0E3D9F33F5"
+    },
+    {
+      "EURING" : 1450,
+      "GUID" : "BC4BB6E7-F256-4C0E-A7F5-4B15160CF3CF"
+    },
+    {
+      "EURING" : 1700,
+      "GUID" : "BCB9DF5F-112A-4EE3-838D-E869C34EE18D"
+    },
+    {
+      "EURING" : 1240,
+      "GUID" : "BD43B67C-CAC5-4D9E-8693-5AC66905BD9D"
+    },
+    {
+      "EURING" : 3380,
+      "GUID" : "BE0E88DF-824A-42E3-9C26-A265918D8B1D"
+    },
+    {
+      "EURING" : 2150,
+      "GUID" : "BE597E3D-2293-49EA-8AF0-C180E922B5A7"
+    },
+    {
+      "EURING" : 1870,
+      "GUID" : "BE632622-C749-4D6D-A0C9-644E2DFCEB66"
+    },
+    {
+      "EURING" : 4720,
+      "GUID" : "BF7B66D5-1991-463D-B580-90756BF6FA57"
+    },
+    {
+      "EURING" : 2060,
+      "GUID" : "C0D735CC-830C-47C7-A5F9-2C9E0AE887AD"
+    },
+    {
+      "EURING" : 1940,
+      "GUID" : "C156FF79-1716-4A85-BF69-736B9DE0BDE1"
+    },
+    {
+      "EURING" : 1250,
+      "GUID" : "C18A3992-B81C-4712-9F4F-58258F42C194"
+    },
+    {
+      "EURING" : 660,
+      "GUID" : "C1F06BB3-40AC-4AC2-8D0A-049EFA75130A"
+    },
+    {
+      "EURING" : 3900,
+      "GUID" : "C232FECD-37FB-4EA6-BB43-D762C1F378D0"
+    },
+    {
+      "EURING" : 310,
+      "GUID" : "C355B11D-3558-4457-B5F1-84C8A13469F8"
+    },
+    {
+      "EURING" : 5480,
+      "GUID" : "C3772218-5360-48B4-A3DD-3A1250414898"
+    },
+    {
+      "EURING" : 3320,
+      "GUID" : "C40438EF-2A06-4EB9-B211-2E76F87ABC54"
+    },
+    {
+      "EURING" : 820,
+      "GUID" : "C4098B0C-D40F-4C99-A9AE-1C901BB66314"
+    },
+    {
+      "EURING" : 704,
+      "GUID" : "C5A31A5C-7A60-4D04-BB9E-20DCA44EF9A2"
+    },
+    {
+      "EURING" : 700,
+      "GUID" : "C5AB4CBB-1F8E-4363-99F4-B119E9D54D37"
+    },
+    {
+      "EURING" : 2880,
+      "GUID" : "C654DEFE-14E3-4A00-8509-3D28EEEC960E"
+    },
+    {
+      "EURING" : 520,
+      "GUID" : "C6EFD09C-A2A3-4462-BF6B-03B79397B36D"
+    },
+    {
+      "EURING" : 1200,
+      "GUID" : "C77BED0C-BFB3-422A-BE58-808B13A1FBB2"
+    },
+    {
+      "EURING" : 3270,
+      "GUID" : "C837BE94-E025-4116-94C2-0F24F722454C"
+    },
+    {
+      "EURING" : 5640,
+      "GUID" : "C8562030-2DF1-4AA2-905A-0CD28FA3F639"
+    },
+    {
+      "EURING" : 2770,
+      "GUID" : "C86AB3B5-A4AB-448B-9F74-E0B1C680BDEF"
+    },
+    {
+      "EURING" : 4680,
+      "GUID" : "C988BC92-9450-4070-A52E-22CE0E125621"
+    },
+    {
+      "EURING" : 3460,
+      "GUID" : "CA5EF3F5-DEB5-4C48-AE5A-734BEA5E374A"
+    },
+    {
+      "EURING" : 30,
+      "GUID" : "CAA35C64-77EE-4AAB-885B-A16DE1A70C6A"
+    },
+    {
+      "EURING" : 3980,
+      "GUID" : "CAAE3941-C0D9-4571-AF3C-416D1E868462"
+    },
+    {
+      "EURING" : 1690,
+      "GUID" : "CB77D6FA-40BC-4913-A97F-E5FF4EA1D70D"
+    },
+    {
+      "EURING" : 1470,
+      "GUID" : "CBAD7A56-05A3-49B9-9E07-00C5534CECE0"
+    },
+    {
+      "EURING" : 4370,
+      "GUID" : "CDDC55D6-6D98-4A72-8D8E-F00C28B7BFC1"
+    },
+    {
+      "EURING" : 4000,
+      "GUID" : "CEC07A9C-EEB4-46DE-BB6A-E9CD84314AD3"
+    },
+    {
+      "EURING" : 5050,
+      "GUID" : "CECE7D5B-33AF-44D8-BB88-5A5F9CCE2DF1"
+    },
+    {
+      "EURING" : 2230,
+      "GUID" : "CFFC0925-B4A5-452C-8AA3-0A5A093008CA"
+    },
+    {
+      "EURING" : 4900,
+      "GUID" : "D051EBE8-A8D3-421D-980F-62B89C8C88EB"
+    },
+    {
+      "EURING" : 470,
+      "GUID" : "D0B37994-5210-4392-9DDF-984FA1933C0A"
+    },
+    {
+      "EURING" : 3660,
+      "GUID" : "D16E7D0C-B812-4B81-90C2-B862970A1524"
+    },
+    {
+      "EURING" : 2563,
+      "GUID" : "D1CBD9B2-10D3-49F7-857D-BBA02602E3C0"
+    },
+    {
+      "EURING" : 4830,
+      "GUID" : "D2D7FB7C-3A11-412F-8D16-57A19A25B4AD"
+    },
+    {
+      "EURING" : 930,
+      "GUID" : "D36261E5-0FCD-4779-8DAE-FA51A1EA4552"
+    },
+    {
+      "EURING" : 3640,
+      "GUID" : "D383D3E7-A20D-4D7D-84DA-708CF5A86019"
+    },
+    {
+      "EURING" : 3830,
+      "GUID" : "D3F31D93-B595-41D8-ACDD-221D0427D5D8"
+    },
+    {
+      "EURING" : 1850,
+      "GUID" : "D486183A-0D57-458E-89A6-464DF91B7903"
+    },
+    {
+      "EURING" : 1920,
+      "GUID" : "D4E57E7F-019B-4231-B655-78E84F5166AB"
+    },
+    {
+      "EURING" : 3370,
+      "GUID" : "D5622756-B6CF-405F-AFE9-A3B2D8B30BBC"
+    },
+    {
+      "EURING" : 3540,
+      "GUID" : "D56C294B-CCD8-4056-9A2C-F0F0ED380047"
+    },
+    {
+      "EURING" : 1510,
+      "GUID" : "D5E0E494-788A-4444-9298-433606846128"
+    },
+    {
+      "EURING" : 780,
+      "GUID" : "D5F6CA53-9CA9-4FCA-B086-F200E1B34193"
+    },
+    {
+      "EURING" : 4320,
+      "GUID" : "D637A744-E50D-483B-B451-5DFDD4FB4332"
+    },
+    {
+      "EURING" : 5500,
+      "GUID" : "D6C8BA31-663C-4AC2-A766-28A3354F8D90"
+    },
+    {
+      "EURING" : 3950,
+      "GUID" : "D7078D09-B662-4F8E-9F41-1F6B47C91C7B"
+    },
+    {
+      "EURING" : 4510,
+      "GUID" : "D7C1C936-8627-4934-B3ED-D3777BAA322A"
+    },
+    {
+      "EURING" : 3130,
+      "GUID" : "D7EDDD25-FE99-49C8-B322-FD5E589462CC"
+    },
+    {
+      "EURING" : 3430,
+      "GUID" : "D7F841E6-16FD-48F0-AD08-675B7FC33CEB"
+    },
+    {
+      "EURING" : 3710,
+      "GUID" : "D86ED8FD-06FC-439C-8E47-77B3052BB7EF"
+    },
+    {
+      "EURING" : 170,
+      "GUID" : "D8BCFB53-39E6-4701-B610-79DC9505B9C6"
+    },
+    {
+      "EURING" : 4180,
+      "GUID" : "D8C4D0A7-7BFF-46D1-8FB3-2084B2ACBA24"
+    },
+    {
+      "EURING" : 1060,
+      "GUID" : "D8EFDE3A-0DFA-4DBB-902F-E23B62560FCB"
+    },
+    {
+      "EURING" : 3890,
+      "GUID" : "D9ACC92D-9978-4490-BDFE-886294D28396"
+    },
+    {
+      "EURING" : 1170,
+      "GUID" : "D9C73F7C-F63B-4203-A140-FC6332752709"
+    },
+    {
+      "EURING" : 4070,
+      "GUID" : "D9E3F305-E719-4CC7-94C2-E8E844D8FA48"
+    },
+    {
+      "EURING" : 640,
+      "GUID" : "DA5FC3D4-695E-4E6B-85FC-9A8215C2375E"
+    },
+    {
+      "EURING" : 3800,
+      "GUID" : "DA72CD1D-FFF5-456C-9EFF-9B57BFC29FB2"
+    },
+    {
+      "EURING" : 3630,
+      "GUID" : "DAB24194-8CD6-47F2-95A6-F63EE2964DC8"
+    },
+    {
+      "EURING" : 4890,
+      "GUID" : "DE20C429-6F2B-467A-99F7-DB5316BFAF4B"
+    },
+    {
+      "EURING" : 3600,
+      "GUID" : "DE2B2DCC-A005-4FDF-8281-BE097F352C03"
+    },
+    {
+      "EURING" : 2400,
+      "GUID" : "DF0D0A32-E34F-465A-9897-3E10A9BD76BC"
+    },
+    {
+      "EURING" : 2620,
+      "GUID" : "DF29C651-C7ED-4518-BEF0-6EB35F142A03"
+    },
+    {
+      "EURING" : 2590,
+      "GUID" : "DF3C3D87-907C-47DE-A13E-738E75C2FAEF"
+    },
+    {
+      "EURING" : 3400,
+      "GUID" : "DFCF45EB-88E8-47F7-94CC-50619BF449A2"
+    },
+    {
+      "EURING" : 1410,
+      "GUID" : "DFD1E6D3-7507-4202-BEB4-89BABCBF640F"
+    },
+    {
+      "EURING" : 4420,
+      "GUID" : "E02E6FAE-A0EA-497C-9403-401D24249ADD"
+    },
+    {
+      "EURING" : 800,
+      "GUID" : "E0F853AF-7C5B-4BD5-9B64-5406AEA22302"
+    },
+    {
+      "EURING" : 1430,
+      "GUID" : "E2D3A9F7-8022-4333-817C-6D01858604C7"
+    },
+    {
+      "EURING" : 2370,
+      "GUID" : "E31ECA4A-F4B3-4759-8E13-4F4E5BA2C7E8"
+    },
+    {
+      "EURING" : 1480,
+      "GUID" : "E363CAF6-3A41-49E8-B231-E52A35BD8E65"
+    },
+    {
+      "EURING" : 720,
+      "GUID" : "E3747C8F-DB8D-4801-8A2B-8A9ADB8647EC"
+    },
+    {
+      "EURING" : 1820,
+      "GUID" : "E3C527A4-857C-43BF-800F-473737B5B4F5"
+    },
+    {
+      "EURING" : 3780,
+      "GUID" : "E3F8A659-CF65-4DFE-947F-0BB1C3404DA3"
+    },
+    {
+      "EURING" : 1320,
+      "GUID" : "E4FC2184-C8E0-4295-8A33-0233EE89A8E6"
+    },
+    {
+      "EURING" : 710,
+      "GUID" : "E5321127-47C6-47BA-AED0-2C94DD93CEEF"
+    },
+    {
+      "EURING" : 880,
+      "GUID" : "E680F1A0-4B47-4084-A206-41A46CB934DA"
+    },
+    {
+      "EURING" : 3650,
+      "GUID" : "E7E7B2EC-074B-41D9-A2AE-198E4BE56474"
+    },
+    {
+      "EURING" : 2730,
+      "GUID" : "E82CC8B5-B6E8-41BA-8A25-92883DEE73CC"
+    },
+    {
+      "EURING" : 2630,
+      "GUID" : "E8B96E9D-6122-420B-806A-03AF7E9F69BC"
+    },
+    {
+      "EURING" : 2020,
+      "GUID" : "E8E17127-DAA2-4ED9-9BBA-F9A3F3FBA0AD"
+    },
+    {
+      "EURING" : 5350,
+      "GUID" : "E9057A9E-182E-493F-9EF7-40C0784A7C71"
+    },
+    {
+      "EURING" : 3110,
+      "GUID" : "E947A7FC-C9A7-4001-8AA5-5FD7EC506974"
+    },
+    {
+      "EURING" : 5390,
+      "GUID" : "E953DEA2-05C0-4986-B3F6-150613EB826D"
+    },
+    {
+      "EURING" : 3080,
+      "GUID" : "E96D8DEC-0E9A-4101-A2ED-04284C266D11"
+    },
+    {
+      "EURING" : 90,
+      "GUID" : "EB53EE4B-F9BE-4BD6-9326-F290505BA51A"
+    },
+    {
+      "EURING" : 1110,
+      "GUID" : "EB943877-3D0E-46D9-A7AC-310BE2375157"
+    },
+    {
+      "EURING" : 620,
+      "GUID" : "EBCF4D01-BB2A-4D92-8F2A-933F7B193439"
+    },
+    {
+      "EURING" : 2490,
+      "GUID" : "EBE76573-9874-4A9C-AAC7-9EA6B7DAE6C9"
+    },
+    {
+      "EURING" : 2680,
+      "GUID" : "EF150AFD-ABBC-48AA-BF41-62AC2CD5E9BD"
+    },
+    {
+      "EURING" : 4530,
+      "GUID" : "EFA392D2-B64B-4780-9076-C35E5E478C11"
+    },
+    {
+      "EURING" : 622,
+      "GUID" : "F0091DBF-FCCB-4F23-98BD-8FA7DD9C7201"
+    },
+    {
+      "EURING" : 4120,
+      "GUID" : "F0493E61-C633-4CD3-B789-4BB79010C605"
+    },
+    {
+      "EURING" : 2810,
+      "GUID" : "F0DF3E9D-3975-4123-88A7-ED13CF166C11"
+    },
+    {
+      "EURING" : 5790,
+      "GUID" : "F134ED6C-764D-412F-89AA-4D63020A095A"
+    },
+    {
+      "EURING" : 2690,
+      "GUID" : "F16FF46D-43BB-4D29-9DC9-33609D0C0224"
+    },
+    {
+      "EURING" : 4910,
+      "GUID" : "F2FBBBC0-EF2A-4B43-8263-048D6D96DCCA"
+    },
+    {
+      "EURING" : 540,
+      "GUID" : "F3F4C404-D4AC-4B35-9355-14D6F7FF2A56"
+    },
+    {
+      "EURING" : 1720,
+      "GUID" : "F463A10F-2E56-4D89-9F62-2AB483A839E4"
+    },
+    {
+      "EURING" : 460,
+      "GUID" : "F4851C5A-107A-41BE-B932-699AE158F27C"
+    },
+    {
+      "EURING" : 2050,
+      "GUID" : "F48659BA-E506-42A2-957E-92AB357CF8FA"
+    },
+    {
+      "EURING" : 1680,
+      "GUID" : "F59DA94B-FF9F-429E-9BAE-02334C2C98AF"
+    },
+    {
+      "EURING" : 3940,
+      "GUID" : "F63337DA-1A77-4BC8-BDAE-5C3255067A52"
+    },
+    {
+      "EURING" : 2980,
+      "GUID" : "F7DEA384-A8E8-4F2D-8CC2-783EF8A10622"
+    },
+    {
+      "EURING" : 811,
+      "GUID" : "F8C040CC-518B-4CA5-846D-AB9693E845DA"
+    },
+    {
+      "EURING" : 1420,
+      "GUID" : "F8F2748B-BBF9-40A2-BDF0-CE66CC27E0C4"
+    },
+    {
+      "EURING" : 5110,
+      "GUID" : "F91E953B-B2FB-4FF9-9F2E-61B2E90DC7D3"
+    },
+    {
+      "EURING" : 4240,
+      "GUID" : "F92793D8-E019-42BF-B015-63808335AF7F"
+    },
+    {
+      "EURING" : 4390,
+      "GUID" : "FA1360D3-25E8-4E31-B413-17BFE24D57B0"
+    },
+    {
+      "EURING" : 4500,
+      "GUID" : "FA8C536D-F446-41D6-AA34-7E40EEA9E0BE"
+    },
+    {
+      "EURING" : 1020,
+      "GUID" : "FAFB30A1-DBDC-4C79-9EC2-749614707283"
+    },
+    {
+      "EURING" : 4710,
+      "GUID" : "FC1F3E1B-E139-44B0-B3E1-887330D5DC3A"
+    },
+    {
+      "EURING" : 590,
+      "GUID" : "FE32991B-E35A-419C-93B9-3979D7C4FD55"
+    },
+    {
+      "EURING" : 4860,
+      "GUID" : "FEFCBF52-1E4E-46B9-8BA0-D7E5AEF606E0"
+    },
+    {
+      "EURING" : 4430,
+      "GUID" : "FF0AB2DB-78DB-4445-9C6D-24AA57D96B38"
+    }
+  ]
+}
